@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "OEM: Operational Evidence Model"
+type: software
+version: 0.1.0
+date-released: 2026-10-27
+license: PolyForm-Noncommercial-1.0.0
+abstract: >-
+  Doctoral research at the University of Minho on validating and justifying
+  operational data from cyber-physical systems before it is anchored as
+  evidence: an ordinal trust function, conditions for evidential status, a
+  no-trust-amplification rule for derived and AI-generated records, and a
+  per-record justification.
+keywords:
+  - provenance
+  - evidence
+  - blockchain
+  - auditability
+  - cyber-physical systems
+  - AI Act
+authors:
+  - family-names: Danyalgil Junior
+    given-names: Ricardo
+    affiliation: "University of Minho, ALGORITMI Research Centre / LASI"
+  - family-names: Machado
+    given-names: José Manuel
+    affiliation: "University of Minho, ALGORITMI Research Centre"
+  - family-names: Reis
+    given-names: José Luís
+    affiliation: "University of Minho, ALGORITMI Research Centre"
