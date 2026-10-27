@@ -1,0 +1,7 @@
+{
+  "ledger": "research.jsonl",
+  "size": 4,
+  "head_seq": 3,
+  "head_hash": "394875b00ed8747d8a84f77813563480a7d0f971a38ab353bb44dee31a28fcae",
+  "merkle_root": "9b52bc475412457f2eb29e6eadc401d78c2b1cf41fcd5d00b48c81a5f815de6f"
+}
